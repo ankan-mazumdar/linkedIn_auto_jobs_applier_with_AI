@@ -13,3 +13,5 @@ chrome_profile
 answers.json
 virtualenv
 virtual
+data_folder/secrets.yaml
+data_folder_example/secrets.yaml
